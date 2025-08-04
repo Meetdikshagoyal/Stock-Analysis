@@ -13,7 +13,7 @@ The assignment includes working code, results/output, and required screenshots f
 ## Contents
 
 - `Final Assignment.ipynb`: Main Jupyter notebook with all code, explanations, and results.
-- `screenshots/`: Folder containing screenshots of code and output for each lab question (named by question).
+- `screenshots/`: screenshots of code and output for each lab question (named by question).
     - `question1.jpg`
     - `question2.pdf`
     - `question3.jpg`
@@ -43,7 +43,7 @@ The assignment includes working code, results/output, and required screenshots f
 
 1. Open `Final Assignment.ipynb` in Jupyter Notebook or Jupyter Lab.
 2. Run all cells from top to bottom to reproduce results and plots.
-3. Screenshots are available in the `screenshots/` folder for grading, showing both code and output.
+3. Screenshots are available in the `screenshots/` for grading, showing both code and output.
 4. All data is extracted programmatically; no manual edits were made to code outputs.
 
 ---
