@@ -15,11 +15,11 @@ The assignment includes working code, results/output, and required screenshots f
 - `Final Assignment.ipynb`: Main Jupyter notebook with all code, explanations, and results.
 - `screenshots/`: Folder containing screenshots of code and output for each lab question (named by question).
     - `question1.jpg`
-    - `question2.jpg`
+    - `question2.pdf`
     - `question3.jpg`
-    - `question4.jpg`
-    - `tesla_dashboard.jpg`
-    - `gamestop_dashboard.jpg`
+    - `question4.pdf`
+    - `question5.pdf`
+    - `question6.pdf`
     
 - `README.md`: This file.
 
