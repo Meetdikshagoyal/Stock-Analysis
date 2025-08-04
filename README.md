@@ -13,13 +13,14 @@ The assignment includes working code, results/output, and required screenshots f
 ## Contents
 
 - `Final Assignment.ipynb`: Main Jupyter notebook with all code, explanations, and results.
-- `Final Assignment Webscraping-v2.ipynb`: Supplementary notebook for web scraping tasks.
 - `screenshots/`: Folder containing screenshots of code and output for each lab question (named by question).
-    - `q1_code_output.png`
-    - `q2_code_output.png`
-    - `tesla_dashboard.png`
-    - `gamestop_dashboard.png`
-    - *(etc. for each required screenshot)*
+    - `question1.jpg`
+    - `question2.jpg`
+    - `question3.jpg`
+    - `question4.jpg`
+    - `tesla_dashboard.jpg`
+    - `gamestop_dashboard.jpg`
+    
 - `README.md`: This file.
 
 ---
